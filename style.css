@@ -1,0 +1,51 @@
+.h1 style {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 1px;;
+    align-content: center;
+
+}
+
+section{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+    background-color: rgb(248, 242, 176);
+}
+
+
+.highlight{
+    color: red;
+}
+
+.highlight-color{
+    color: red;
+}
+
+.high{
+    color: red;
+}
+
+.highlight-word-color{
+    color: lime;
+}
+
+.hi-color{
+    color: lime;
+}
+.h-color{
+    color: lime;
+}
+.highlight-word-color{
+    color: lime;
+}
+
+.highlight-wd-color{
+    color: lime;
+}
+.highlight{
+    color: red;
+}
+.highlight{
+    color: red;
+}
